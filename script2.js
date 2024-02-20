@@ -1,4 +1,4 @@
-(() => {
+javascript: (() => {
   (function (_0x3992b0, _0x4c9742) {
     const _0x85f6f7 = _0x44ae,
       _0x414d6a = _0x3992b0();
@@ -496,7 +496,7 @@
       "split",
       "132533FzqlZS",
       ".link",
-      "Foaie2",
+      "SCRIPT2",
       "provinceListContainer",
       "ifm",
       "Electronics",
@@ -537,7 +537,7 @@
       "join",
       "big",
       "Components",
-      "https://script.google.com/macros/s/AKfycbx9zYq2VSMbdB-4so3Fpfub1t24fmP_LewEH9C-joXa8gMZTZ5hsd55zR7rWzxyQXBB/exec",
+      "https://script.google.com/macros/s/AKfycbxcUSMWX5IcXpGuskfjDqHuqaCwzJrD8_FBoytbVOIGEQ8VwAeKEeZOEtRwrsHgXO7Z/exec",
       "includes",
       "location",
       "block",
