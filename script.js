@@ -1,4 +1,4 @@
-javascript: (() => {
+(() => {
   (function (_0x3992b0, _0x4c9742) {
     const _0x85f6f7 = _0x44ae,
       _0x414d6a = _0x3992b0();
